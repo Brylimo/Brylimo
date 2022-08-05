@@ -23,4 +23,6 @@
     <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 </p><br>
 
+<div align=center>
+
 ![Brylimo's github stats](https://github-readme-stats.vercel.app/api?username=Brylimo&show_icons=true)
