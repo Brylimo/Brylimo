@@ -40,6 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brylimo&layout=compact&exclude_repo=New-Page-Replacement-Policy,Hybrid-system-with-ABS-system,go-game-ranking-prediction-machine)](https://github.com/Brylimo/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brylimo)](https://solved.ac/brylimo/)
+
+<br>
+
 ![Brylimo's github stats](https://github-readme-stats.vercel.app/api?username=Brylimo&show_icons=true)
 
 </div>
