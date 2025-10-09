@@ -1,4 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=330&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Chaejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
+
+# Chaejin Lim  
+### Backend Developer | Java & Spring Boot | MSA & Cloud Architecture
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaejin-lim-02a93b245)
+[![Email](https://img.shields.io/badge/Email-icj0103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icj0103@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Juneberry%20Diary-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juneberrydiary.com/blog/tourist0302)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I’m a **Java & Spring Boot backend developer** with 2 years of experience building scalable, cloud-native services.  
+I enjoy designing systems that **scale efficiently, recover gracefully, and perform beautifully**.
+
+- ⚙️ Improved backend **memory efficiency by 83.13%** in a Jeju digital-twin project  
+- 🛵 Built an **personal mobility illegal parking detection algorithm** for Jeju personal mobility safety service  
+- 📝 Launched and operate **“Juneberry Diary”**, a diary & blog platform serving **900 monthly active users (based on blog visitors)**
+- 🎮 Designed **Kafka + gRPC-based MSA architecture** for a real-time AI game platform
+- 🚗 Developed **“Plate Pay”**, a mobility-linked OCR payment platform
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**  
+<img src="https://skillicons.dev/icons?i=java,spring,gradle,postgresql,redis"/><br>
+
+**Architecture & Messaging**  
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,nginx"/><br>
+
+**DevOps & Monitoring**  
+<img src="https://skillicons.dev/icons?i=jenkins,aws,prometheus,grafana"/><br>
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,vue"/>
+
+</div>
+
+---
+
+## 📈 Stats
+
+<div align="center">
+
+![Chaejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brylimo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brylimo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/icj0103/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tourist0302)](https://solved.ac/tourist0302/)
+
+</div>
+
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=330&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Chaejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
 
@@ -55,13 +113,13 @@
     <div align=center><h1>🐤 STATS</h1></div>
 </p>
 
-<div align="center">
+<div align="center">-->
 
-![Brylimo's github stats](https://github-readme-stats.vercel.app/api?username=Brylimo&show_icons=true)
+<!--![Brylimo's github stats](https://github-readme-stats.vercel.app/api?username=Brylimo&show_icons=true)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brylimo&layout=compact&exclude_repo=New-Page-Replacement-Policy,Hybrid-system-with-ABS-system)](https://github.com/Brylimo/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tourist0302)](https://solved.ac/tourist0302/)
 
-</div>
+</div>-->
