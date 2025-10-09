@@ -51,7 +51,7 @@ I enjoy designing systems that **scale efficiently, recover gracefully, and perf
 ![Chaejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brylimo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brylimo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Brylimo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brylimo&layout=compact&exclude_repo=New-Page-Replacement-Policy,Hybrid-system-with-ABS-system,go-game-ranking-prediction-machine&theme=tokyonight&hide_border=true)](https://github.com/Brylimo/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tourist0302)](https://solved.ac/tourist0302/)
 
 </div>
