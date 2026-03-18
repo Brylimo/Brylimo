@@ -29,10 +29,10 @@ I enjoy designing systems that **scale efficiently, recover gracefully, and perf
 <div align="center">
 
 **Languages & Frameworks**  
-<img src="https://skillicons.dev/icons?i=java,spring,express,postgresql,redis"/><br>
+<img src="https://skillicons.dev/icons?i=golang,java,spring,postgresql,redis"/><br>
 
 **Architecture & Messaging**  
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,nginx"/><br>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,rabbitmq,nginx"/><br>
 
 **DevOps & Monitoring**  
 <img src="https://skillicons.dev/icons?i=jenkins,aws,prometheus,grafana"/><br>
