@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chaejin Lim  
-### Backend Developer | Java & Spring Boot | MSA & Cloud Architecture
+### Backend Developer | Golang & Java | MSA & K8s based Cloud Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaejin-lim-02a93b245)
 [![Email](https://img.shields.io/badge/Email-icj0103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icj0103@gmail.com)
@@ -13,9 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Java & Spring Boot backend developer** with 2 years of experience building scalable, cloud-native services.  
+I’m a **Golang, Java based backend developer** with 2 years of experience building scalable, cloud-native services.  
 I enjoy designing systems that **scale efficiently, recover gracefully, and perform beautifully**.
 
+- 💰 Built a kt cloud Managed KS(kt cloud K8s product) billing dashboard service
 - ⚙️ Improved backend **memory efficiency by 83.13%** in a Jeju digital-twin project  
 - 🛵 Built an **personal mobility illegal parking detection algorithm** for Jeju personal mobility safety service  
 - 📝 Launched and operate **“Juneberry Diary”**, a diary & blog platform serving **900 monthly active users (based on blog visitors)**
